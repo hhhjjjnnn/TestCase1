@@ -2,6 +2,10 @@
 Test Case 1 solution for https://automationexercise.com/test_cases
 
 
+## Installation instructions: 
+You need to already have Visual Studio, python, Robot Framework Language Server extension on Visual Studio, and seleniumlibrary installed on your pc.
+
+
 ####  Detailed Test Steps for Test Case 1 to practice Automation testing on RobotFramework
 
 1. Launch browser
